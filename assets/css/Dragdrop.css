@@ -1,0 +1,9 @@
+<div class='drag-n-drop'>
+  <input class='drag-n-drop__input' type='file'>
+  <div class='drag-n-drop__dropzone'>
+    <div>
+      <i class='material-icons --large'>add_a_photo</i>
+      <p class='mt-1'>Click or drag a file to upload</p>
+    </div>
+  </div>
+</div>
